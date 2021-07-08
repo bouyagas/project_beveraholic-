@@ -1,0 +1,5 @@
+export const GET_BEVERAGES = "GET_BEVERAGES";
+export const BEVERAGE_ERROR = "BEVERAGE_ERROR";
+export const DELETE_BEVERAGE = "DELETE_BEVERAGE";
+export const ADD_BEVERAGE = "ADD_BEVERAGE";
+export const GET_BEVERAGE = "GET_BEVERAGE";
